@@ -1,0 +1,8 @@
+# Compiled files
+app
+*.o
+*.out
+
+# Temporary files
+*.swp
+.DS_Store
